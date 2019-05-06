@@ -1,5 +1,5 @@
 // import test from './../test';
-import Uri from './modules/uri/';
+import Uri from 'uri-com';
 const identity = _ => _;
 
 const fireEvent = event => async isAsync => isAsync ?

@@ -1,5 +1,5 @@
 {
-	"name": "spx-layout",
+	"name": "navigator",
 	"version": "0.0.0",
 	"private": true,
 	"scripts": {
@@ -27,6 +27,7 @@
 	},
 	"dependencies": {
 		"spx-com": "^1.0.22",
+		"uri-com": "^1.0.2",
 		"webpack": "^4.30.0"
 	}
 }
